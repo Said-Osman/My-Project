@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Home.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+        integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <title>SaidOsman.com</title>
+</head>
+
+<body>
+    <div class="navigationWrapper">
+        <i class="fas fa-address-card"></i><a href="../home/Home.html">Home</a>
+        <i class="fas fa-home"></i><a href="../about/About.html">About</a>
+         </div>
+
+         <img src="https://images.unsplash.com/photo-1481402665672-0a280f0e9845?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1953&q=80" alt="Error"/>
+        <h1>Official homepage</h1>
+        <table>
+            <tr> 
+                <th>Months</th>
+                <th>Savings</th>
+            </tr>
+            <tr>
+                <td>Jan</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Feb</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Mar</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Apr</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>May</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Jun</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Jul</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Aug</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Sep</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Okt</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Nov</td>
+                <td>100$</td>
+            </tr>
+            <tr>
+                <td>Dec</td>
+                <td>100$</td>
+            </tr>
+
+            
+        </table>
+</body>
+
+</html>
